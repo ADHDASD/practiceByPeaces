@@ -1,0 +1,13 @@
+/Users/biniam/Projects/missilelenious/missilelenious/bin/Debug/netcoreapp3.1/missilelenious.deps.json
+/Users/biniam/Projects/missilelenious/missilelenious/bin/Debug/netcoreapp3.1/missilelenious.runtimeconfig.json
+/Users/biniam/Projects/missilelenious/missilelenious/bin/Debug/netcoreapp3.1/missilelenious.runtimeconfig.dev.json
+/Users/biniam/Projects/missilelenious/missilelenious/bin/Debug/netcoreapp3.1/missilelenious.dll
+/Users/biniam/Projects/missilelenious/missilelenious/bin/Debug/netcoreapp3.1/missilelenious.pdb
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.csproj.AssemblyReference.cache
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.AssemblyInfoInputs.cache
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.AssemblyInfo.cs
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.csproj.CoreCompileInputs.cache
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.dll
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.pdb
+/Users/biniam/Projects/missilelenious/missilelenious/obj/Debug/netcoreapp3.1/missilelenious.genruntimeconfig.cache
